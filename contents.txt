@@ -1,0 +1,3 @@
+"D:\workprj\TestUpack\data\Config\"
+"D:\workprj\TestUpack\data\Media\"
+"D:\workprj\TestUpack\data\manifest.json"

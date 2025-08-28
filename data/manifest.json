@@ -1,0 +1,33 @@
+﻿{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "ToyCar"
+		}
+	],
+	"Description":
+	[
+		{
+			"Language": "en",
+			"Text": "A Cartoon ToyCar 3D Model...."
+
+		}
+	],
+	"AssetTypes": [],
+	"SearchTags":
+	[
+		{
+			"Language": "en",
+			"Text": "toycar"
+		}
+	],
+	"ClassTypes": "",
+	"Category": "BlueprintFeature",
+	"Thumbnail": "ToyCar.png",
+	"Screenshots":
+	[
+		"ToyCar_Preview.png"
+	]
+}
